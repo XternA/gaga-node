@@ -1,10 +1,14 @@
-# GaGaNode Docker
+# GaGaNode Docker 🐋
 
 ### Containerised docker image for [GaGaNode](https://gaganode.com)
 
 >**Note:** This is an unofficial build and comes with no warranty of any kind. By using this image you also agree to GaGaNode's T&C.
 
 This is a simple Docker image for installing GaGaNode as a container.
+
+If you like this project, don't forget to leave a star. ⭐
+
+> This script comes pre-bundled with [**Income Generator**](https://github.com/XternA/income-generator). A tool stack that consolidates and earns passive income from multiple sources.
 
 ## Usage
 Define the following environment variable to bootstrap the image.
